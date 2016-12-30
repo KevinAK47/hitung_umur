@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Danu Ferdina</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="txtDate"></string>
+    <string name="btnHitungUmur">Hitung Umur</string>
+    <string name="title_activity_about">About</string>
+
+</resources>
